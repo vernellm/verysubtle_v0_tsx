@@ -1,4 +1,5 @@
 import React from 'react'
+import Video from 'next-video';
 import BackgroundVideo from 'next-video/background-video';
 import spinnerLogo from '../../../videos/0001-0250.mp4'
 import Link from 'next/link'
